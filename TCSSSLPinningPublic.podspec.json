@@ -13,7 +13,7 @@
     "ios": "12.0"
   },
   "source": {
-    "http": "https://github.com/tinkoff-mobile-tech/sslpinning/releases/download/untagged-5036c1613be99cf55087/TCSSSLPinningPublic.xcframework.zip",
+    "http": "https://github.com/tinkoff-mobile-tech/sslpinning/releases/download/4.0.0/TCSSSLPinningPublic.xcframework.zip",
     "sha256": "63549ebf17c50cfc88afe0e447ee7545a4f0b269178ead433f384c0f59cf0e22"
   },
   "swift_versions": [
